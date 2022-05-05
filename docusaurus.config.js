@@ -13,7 +13,7 @@ const config = {
   favicon: 'img/favicon.ico',
   // web deploy config
   url: 'https://suiyi8760.github.io', // Your website URL
-  baseUrl: '/',
+  baseUrl: '/codeForFun/',
   projectName: 'codeForFun', // Usually your repo name.
   organizationName: 'endiliey',
   trailingSlash: false,
