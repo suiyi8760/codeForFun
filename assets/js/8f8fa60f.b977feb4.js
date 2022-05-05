@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcodeforfun_2=self.webpackChunkcodeforfun_2||[]).push([[403],{7316:function(o){o.exports=JSON.parse('{"allTagsPath":"/codeForFun/blog/tags","name":"facebook","count":1,"permalink":"/codeForFun/blog/tags/facebook"}')}}]);
