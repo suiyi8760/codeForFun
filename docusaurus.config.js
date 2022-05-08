@@ -18,6 +18,9 @@ const config = {
   organizationName: 'endiliey',
   trailingSlash: false,
   deploymentBranch: 'gh-pages',
+  
+  // themes plugins
+  themes: ['@docusaurus/theme-live-codeblock'],
 
   presets: [
     [
